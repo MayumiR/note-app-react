@@ -1,0 +1,36 @@
+.login-form{
+    margin: 0;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: crimson;
+}
+
+.user-logo{
+    margin:0 auto;
+    text-align: center;
+}
+.form-login {
+    max-width: 400px;
+    width: 450px;
+}
+.login-form-button{
+    width: 100%;
+}
+.login-form-forgot{
+    margin:0 auto;
+    text-align: center;
+}
+
+body{
+    background-image: url("../../assest/bgrnd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-style{
+    webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}

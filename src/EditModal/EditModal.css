@@ -1,0 +1,16 @@
+.save-box {
+    position: absolute;
+    width: 400px;
+    background-color: #61dafb;
+    border-radius: 5px;
+    border:  2px solid #777777;
+    box-shadow: #777777;
+}
+.form-label{
+    margin: 5px;
+}.title-dv{
+    margin: 10px;
+}
+.des-dv{
+    margin: 10px;
+}
